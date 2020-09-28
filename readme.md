@@ -3,5 +3,11 @@ Better GUI, Organized + Simpler functions.
 
 # Credits
 
-Main Source : @ExtraConcentratedJuice
+Main Source : https://github.com/ExtraConcentratedJuice
 GUI : Me
+
+
+# Plans
+
+Adding Force Impostor Feature
+Adding Tabs on the Gui
